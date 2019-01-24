@@ -1,4 +1,4 @@
-// Author Your Name
+// Author Jonathan Little
 // Description: Hello World in C++
 //============================================================main
 #include <iostream>
